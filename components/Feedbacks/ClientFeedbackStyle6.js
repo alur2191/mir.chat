@@ -64,17 +64,17 @@ const ClientFeedbackStyle6 = () => {
                                 <div className="content">
                                     <h3>Londynn Vargas</h3>
                                     <span>Spotify Developer</span>
-                                    <p>mirchat is the best digital agency in our area As a midsize software developent company we combine the best of both worlds. We have the focus and speed of the small it outsurcing companies.</p>
+                                    <p>texap is the best digital agency in our area As a midsize software developent company we combine the best of both worlds. We have the focus and speed of the small it outsurcing companies.</p>
                                 </div>
                                 <div className="content">
                                     <h3>James Andy</h3>
                                     <span>PHP Developer</span>
-                                    <p>mirchat is the best digital agency in our area As a midsize software developent company we combine the best of both worlds. We have the focus and speed of the small it outsurcing companies.</p>
+                                    <p>texap is the best digital agency in our area As a midsize software developent company we combine the best of both worlds. We have the focus and speed of the small it outsurcing companies.</p>
                                 </div>
                                 <div className="content">
                                     <h3>Sarah Taylor</h3>
                                     <span>JavaScript Developer</span>
-                                    <p>mirchat is the best digital agency in our area As a midsize software developent company we combine the best of both worlds. We have the focus and speed of the small it outsurcing companies.</p>
+                                    <p>texap is the best digital agency in our area As a midsize software developent company we combine the best of both worlds. We have the focus and speed of the small it outsurcing companies.</p>
                                 </div>
                             </OwlCarousel> : ''}
                         </div>

@@ -28,7 +28,7 @@ const NavbarStyleTwo = () => {
     return (
         <>
             <div id="navbar" className="navbar-area navbar-style-two">
-                <div className="mirchat-nav">
+                <div className="texap-nav">
                     <div className="container">
                         <nav className="navbar navbar-expand-md navbar-light bg-light">
                             <Link href="/">

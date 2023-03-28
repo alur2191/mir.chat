@@ -24,8 +24,8 @@ const ContactInfo = () => {
                                     <div className="icon">
                                         <i className="ri-earth-line"></i>
                                     </div>
-                                    <h3><a href="mailto:hello@mirchat.com">hello@mirchat.com</a></h3>
-                                    <h3><a href="mailto:info@mirchat.com">info@mirchat.com</a></h3>
+                                    <h3><a href="mailto:hello@texap.com">hello@texap.com</a></h3>
+                                    <h3><a href="mailto:info@texap.com">info@texap.com</a></h3>
                                 </div>
                             </div>
 

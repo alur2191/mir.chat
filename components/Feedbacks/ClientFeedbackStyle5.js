@@ -31,7 +31,7 @@ const ClientFeedbackStyle5 = () => {
                             </TabPanel>
 
                             <TabPanel>
-                                <p>The mirchat cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy of your business purpose text.</p>
+                                <p>The texap cloud based storage for your data backup just log in with your mail account from play store and using whatever you want for your business purpose orem ipsum dummy of your business purpose text.</p>
                                 <h6><span>David Warner</span> - Web Developer</h6>
                             </TabPanel>
 

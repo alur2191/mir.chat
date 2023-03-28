@@ -44,7 +44,7 @@ const FooterStyleOne = () => {
                             </li>
                         </ul>
 
-                        {/*<p className="copyright">Copyright &copy; {currentYear} <strong>mirchat</strong>. All Rights Reserved by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a></p>*/}
+                        {/*<p className="copyright">Copyright &copy; {currentYear} <strong>texap</strong>. All Rights Reserved by <a href="https://envytheme.com/" target="_blank">EnvyTheme</a></p>*/}
                     </div>
                 </div>
             </div>

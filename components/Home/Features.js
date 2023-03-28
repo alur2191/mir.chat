@@ -13,7 +13,7 @@ const Features = () => {
                     <ul className="features-boxes-list">
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/usamirchat">
+                                <a href="https://t.me/usatexap">
                                     <div className="icon">
                                             <Image src="/images/groups/logo-usa.png" width={300} height={300} alt="image" />
                                     </div>
@@ -23,7 +23,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/usamirchat">
+                                <a href="https://t.me/usatexap">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-usa.png" width={300} height={300} alt="image" />
                                     </div>
