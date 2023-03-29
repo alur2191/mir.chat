@@ -54,29 +54,23 @@ const NavbarStyleTwo = () => {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav">
                                     <li className="nav-item">
-                                        <Link href="#">
-                                            <a onClick={e => e.preventDefault()} className="nav-link">
+                                            <a href="#groups" className="nav-link">
                                                 Группы
                                             </a>
-                                        </Link>
                                     </li>
 
                                     <li className="nav-item">
-                                        <Link href="/">
-                                            <a onClick={e => e.preventDefault()} className="nav-link">
+                                            <a href="#about" className="nav-link">
                                                 О нас
                                             </a>
-                                        </Link>
                                     </li>
 
                                     <li className="nav-item">
-                                        <Link href="#">
-                                            <a onClick={e => e.preventDefault()} className="dropdown-toggle nav-link">
+                                            <a href="#resources" className="nav-link">
                                                 Полезные Ресурсы
                                             </a>
-                                        </Link>
 
-                                        <ul className="dropdown-menu">
+                                        {/*<ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/about-simple" activeClassName="active">
                                                     <a onClick={toggleNavbar} className="nav-link">Бытовые Ресурсы</a>
@@ -88,16 +82,16 @@ const NavbarStyleTwo = () => {
                                                     <a onClick={toggleNavbar} className="nav-link">Дальнобойщики</a>
                                                 </Link>
                                             </li>
-                                        </ul>
+                                        </ul>*/}
                                     </li>
 
-                                    <li className="nav-item">
+                                    {/*<li className="nav-item">
                                         <Link href="#">
                                             <a onClick={e => e.preventDefault()} className="nav-link">
                                                 Обратная Связь
                                             </a>
                                         </Link>
-                                    </li>
+                                    </li>*/}
                                 </ul>
                             </div>
 

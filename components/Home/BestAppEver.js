@@ -4,7 +4,7 @@ import Link from 'next/link';
 const BestAppEver = () => {
     return (
         <>
-            <div className="overview-area">
+            <div id="about" className="overview-area">
                 <div className="container-fluid">
                     <div className="row m-0">
                         <div className="col-xl-6 col-lg-12 col-md-12 p-0">

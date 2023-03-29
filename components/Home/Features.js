@@ -13,7 +13,7 @@ const Features = () => {
                     <ul className="features-boxes-list">
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/usatexap">
+                                <a href="https://t.me/usamirchat">
                                     <div className="icon">
                                             <Image src="/images/groups/logo-usa.png" width={300} height={300} alt="image" />
                                     </div>
@@ -23,9 +23,9 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/usatexap">
+                                <a href="https://t.me/usamirchat">
                                     <div className="icon">
-                                        <Image src="/images/groups/logo-usa.png" width={300} height={300} alt="image" />
+                                        <Image src="/images/favicon.png" width={300} height={300} alt="image" />
                                     </div>
                                     <h3>Канал</h3>
                                 </a>
@@ -35,7 +35,7 @@ const Features = () => {
                             <div className="features-list-box">
                                 <a href="https://t.me/truckdrivergroup">
                                     <div className="icon">
-                                        <Image src="/images/groups/logo-usa.png" width={300} height={300} alt="image" />
+                                        <Image src="/images/tdh-logo.png" width={300} height={300} alt="image" />
                                     </div>
                                     <h3>Дальнобойщики</h3>
                                 </a>

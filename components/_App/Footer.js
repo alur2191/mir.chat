@@ -18,29 +18,13 @@ const FooterStyleOne = () => {
 
                         <ul className="navbar-nav">
                             <li className="nav-item">
-                                <Link href="/services">
-                                    <a className="nav-link">Группы</a>
-                                </Link>
+                                <a href="#groups" className="nav-link">Группы</a>
                             </li>
                             <li className="nav-item">
-                                <Link href="/contact">
-                                    <a className="nav-link">О Нас</a>
-                                </Link>
+                                <a href="#about" className="nav-link">О Нас</a>
                             </li>
                             <li className="nav-item">
-                                <Link href="/privacy-policy">
-                                    <a className="nav-link">Бытовые Ресурсы</a>
-                                </Link>
-                            </li>
-                            <li className="nav-item">
-                                <Link href="/privacy-policy">
-                                    <a className="nav-link">Дальнобойщики</a>
-                                </Link>
-                            </li>
-                            <li className="nav-item">
-                                <Link href="/contact">
-                                    <a className="nav-link">Обратная Связь</a>
-                                </Link>
+                                <a href="#resources" className="nav-link">Ресурсы</a>
                             </li>
                         </ul>
 
