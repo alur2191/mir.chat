@@ -15,7 +15,7 @@ const Features = () => {
                             <div className="features-list-box">
                                 <a href="https://t.me/usamirchat">
                                     <div className="icon">
-                                            <Image src="/images/groups/logo-usa.png" width={300} height={300} alt="image" />
+                                            <Image src="/images/groups/logo-us.png" width={300} height={300} alt="image" />
                                     </div>
                                     <h3>США</h3>
                                 </a>
