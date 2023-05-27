@@ -13,7 +13,7 @@ const KeyFeatures = () => {
                     <div className="row justify-content-center">
                         <div className="col-lg-4 col-6 col-md-6 xsw-100">
                             <div className="features-item">
-                                <a href="https://www.cdlhelp.app" style={{display:"flex", flexDirection: "column", alignItems:"center", textAlign: "center"}}>
+                                <a href="https://www.t.me/wwwmirchat" style={{display:"flex", flexDirection: "column", alignItems:"center", textAlign: "center"}}>
                                     <div className="icon">
                                         <i className="ri-survey-line"></i>
                                     </div>
