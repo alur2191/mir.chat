@@ -13,7 +13,7 @@ const Features = () => {
                     <ul className="features-boxes-list">
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/usamirchat">
+                                <a href="https://t.me/usamirchat" target="_blank">
                                     <div className="icon">
                                             <Image src="/images/groups/logo-us.png" width={300} height={300} alt="image" />
                                     </div>
@@ -23,7 +23,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/usamirchat">
+                                <a href="https://t.me/usamirchat" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/favicon.png" width={300} height={300} alt="image" />
                                     </div>
@@ -33,7 +33,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/truckdrivergroup">
+                                <a href="https://t.me/truckdrivergroup" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/tdh-logo.png" width={300} height={300} alt="image" />
                                     </div>
@@ -51,7 +51,7 @@ const Features = () => {
                     <ul className="features-boxes-list">
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/newyorkmir">
+                                <a href="https://t.me/newyorkmir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-new-york.png" width={300} height={300} alt="image" />
                                     </div>
@@ -61,7 +61,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/newjerseymir">
+                                <a href="https://t.me/newjerseymir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-new-jersey.png" width={300} height={300} alt="image" />
                                     </div>
@@ -71,7 +71,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/losangelesmir">
+                                <a href="https://t.me/losangelesmir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-los-angeles.png" width={300} height={300} alt="image" />
                                     </div>
@@ -81,7 +81,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/sacramentomir">
+                                <a href="https://t.me/sacramentomir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-sacramento.png" width={300} height={300} alt="image" />
                                     </div>
@@ -91,7 +91,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/chicagomir">
+                                <a href="https://t.me/chicagomir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-chicago.png" width={300} height={300} alt="image" />
                                     </div>
@@ -101,7 +101,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/philadelphiamir">
+                                <a href="https://t.me/philadelphiamir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-philadelphia.png" width={300} height={300} alt="image" />
                                     </div>
@@ -111,7 +111,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/miamimir">
+                                <a href="https://t.me/miamimir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-miami.png" width={300} height={300} alt="image" />
                                     </div>
@@ -121,7 +121,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/orlandomir">
+                                <a href="https://t.me/orlandomir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-orlando.png" width={300} height={300} alt="image" />
                                     </div>
@@ -131,7 +131,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/seattlemir">
+                                <a href="https://t.me/seattlemir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-seattle.png" width={300} height={300} alt="image" />
                                     </div>
@@ -141,7 +141,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/atlantamir">
+                                <a href="https://t.me/atlantamir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-atlanta.png" width={300} height={300} alt="image" />
                                     </div>
@@ -151,7 +151,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/texasmir">
+                                <a href="https://t.me/texasmir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-texas.png" width={300} height={300} alt="image" />
                                     </div>
@@ -161,7 +161,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/virginiamir">
+                                <a href="https://t.me/virginiamir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-virginia.png" width={300} height={300} alt="image" />
                                     </div>
@@ -171,7 +171,7 @@ const Features = () => {
                         </li>
                         <li>
                             <div className="features-list-box">
-                                <a href="https://t.me/ohiomir">
+                                <a href="https://t.me/ohiomir" target="_blank">
                                     <div className="icon">
                                         <Image src="/images/groups/logo-ohio.png" width={300} height={300} alt="image" />
                                     </div>
