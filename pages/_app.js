@@ -12,12 +12,31 @@ import 'react-accessible-accordion/dist/fancy-example.css'
 import 'react-tabs/style/react-tabs.css'
 // Global CSS
 import '@/public/css/styles.css'
-
+import Script from "next/script";
 import Layout from '@/components/_App/Layout';
 
 const MyApp = ({ Component, pageProps }) => {
     return (
         <Layout>
+            <Script
+				strategy="lazyOnload"
+				async
+				src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}
+			/>
+			<Script
+				id="google-analytics"
+				strategy="lazyOnload"
+				dangerouslySetInnerHTML={{
+					__html: `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}', {
+                    page_path: window.location.pathname,
+                  });
+                `,
+				}}
+			/>
             <Component {...pageProps} />
         </Layout>
     )
